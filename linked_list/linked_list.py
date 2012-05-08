@@ -30,6 +30,7 @@ class LinkedList:
     for var in range(at_loc-1):
       current_node = current_node.next 
     return current_node
+
 node1 = Node("item 1")
 node2 = Node("item 2")
 node3 = Node("item 3")
